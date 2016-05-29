@@ -2,3 +2,4 @@ This is the main file of the project
 This is the first line added to the main file of the project
 The intention of this line is to be added, commited and pushed through command line
 Added this line to be pulled by other local repositories
+This line might be a change, might not (stash command)
