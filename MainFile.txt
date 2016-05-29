@@ -1,2 +1,2 @@
 This is the main file of the project
-This is the 2nd line added to the main project file
+This is the first line added to the main file of the project
