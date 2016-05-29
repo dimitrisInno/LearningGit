@@ -6,3 +6,5 @@ Added this line to be pulled by other local repositories
 blabla1
 blabla2
 --------------------------------------------------------------------
+This line might be a change, might not (stash command)
+
